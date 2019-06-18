@@ -91,6 +91,7 @@ monitor keyboard show and hide
   #  Not including the public_header_files will make all headers public.
   #
 
+  #spec.source_files  = "PPFKeyboardNotificationDemo/sources/*.swift"
   spec.source_files  = "PPFKeyboardNotificationDemo/sources/*.swift"
   # spec.exclude_files = "Classes/Exclude"
 
