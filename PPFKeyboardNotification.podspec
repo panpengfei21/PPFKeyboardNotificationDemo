@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PPFKeyboardNotification"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "监控键盘显示和隐藏"
 
   # This description is used to generate tags and improve search results.
