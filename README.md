@@ -1,7 +1,7 @@
 # PPFKeyboardNotificationDemo
 
 ## 引用
-pod 'PPFIndicator'
+pod 'PPFKeyboardNotification'
 
 ## 使用
 
